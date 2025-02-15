@@ -1,6 +1,9 @@
-## Hi there 👋
-
-- 🔭 I'm currently working on making [Peyara Remote Mouse](https://github.com/ayonshafiul/peyara-mouse-client) an open source trustworthy alternative to existing adware/paid closed source apps.
-- 🌱 I'm currently learning Native Android Development with Jetpack Compose.
+For more info: [https://shafiul.com.bd](https://shafiul.com.bd)
 
 ![](https://komarev.com/ghpvc/?username=ayonshafiul)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayonshafiul&theme=default&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Stats](https://streak-stats.demolab.com?user=ayonshafiul&theme=default&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayonshafiul&theme=default&show_icons=true&hide_border=true&layout=compact)
